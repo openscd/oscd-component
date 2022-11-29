@@ -2,7 +2,7 @@
   "name": "oscd-component",
   "description": "Webcomponent oscd-component following open-wc recommendations",
   "license": "Apache-2.0",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "main": "dist/oscd-component.js",
   "module": "dist/oscd-component.js",
